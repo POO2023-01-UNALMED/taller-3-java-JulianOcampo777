@@ -53,10 +53,4 @@ public class Control {
             }
         }
     }
-
-    public void setCanal(int canal) {
-    	if (this.tv.estado) {
-    		this.tv.setCanal(canal);
-    	}
-    }
 }
