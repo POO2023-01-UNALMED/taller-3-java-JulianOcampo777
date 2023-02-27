@@ -53,4 +53,7 @@ public class Control {
             }
         }
     }
+    
+    public void setCanal(int canal) {
+    }
 }
